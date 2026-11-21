@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: marshall-islandsian-restitution-roadmap-and-qsf-trust-execution
-  name: Marshall Islandsian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/marshall-islandsian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_mh_001
+    name: Marshall Islands Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_002
+    name: Marshall Islands Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_003
+    name: Marshall Islands Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_004
+    name: Marshall Islands Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_005
+    name: Marshall Islands Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_006
+    name: Marshall Islands Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_007
+    name: Marshall Islands Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_008
+    name: Marshall Islands Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_009
+    name: Marshall Islands Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_010
+    name: Marshall Islands Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_011
+    name: Marshall Islands Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_012
+    name: Marshall Islands Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_013
+    name: Marshall Islands Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_014
+    name: Marshall Islands Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_015
+    name: Marshall Islands Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_016
+    name: Marshall Islands Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_017
+    name: Marshall Islands Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_018
+    name: Marshall Islands Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_019
+    name: Marshall Islands Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_020
+    name: Marshall Islands Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_021
+    name: Marshall Islands Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_022
+    name: Marshall Islands Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_023
+    name: Marshall Islands Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_024
+    name: Marshall Islands Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_025
+    name: Marshall Islands Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_026
+    name: Marshall Islands Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_027
+    name: Marshall Islands Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_028
+    name: Marshall Islands Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_029
+    name: Marshall Islands Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_030
+    name: Marshall Islands Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_031
+    name: Marshall Islands Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_032
+    name: Marshall Islands Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_033
+    name: Marshall Islands Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_034
+    name: Marshall Islands Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_035
+    name: Marshall Islands Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_036
+    name: Marshall Islands Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_037
+    name: Marshall Islands Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_038
+    name: Marshall Islands Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_039
+    name: Marshall Islands Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_040
+    name: Marshall Islands Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_041
+    name: Marshall Islands Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_042
+    name: Marshall Islands Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_043
+    name: Marshall Islands Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_044
+    name: Marshall Islands Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_045
+    name: Marshall Islands Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_046
+    name: Marshall Islands Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_047
+    name: Marshall Islands Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_048
+    name: Marshall Islands Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_049
+    name: Marshall Islands Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_050
+    name: Marshall Islands Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_051
+    name: Marshall Islands Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_052
+    name: Marshall Islands Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_053
+    name: Marshall Islands Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_054
+    name: Marshall Islands Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_055
+    name: Marshall Islands Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_056
+    name: Marshall Islands Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_057
+    name: Marshall Islands Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_058
+    name: Marshall Islands Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_059
+    name: Marshall Islands Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_060
+    name: Marshall Islands Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_061
+    name: Marshall Islands Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_062
+    name: Marshall Islands Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_063
+    name: Marshall Islands Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_064
+    name: Marshall Islands Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_065
+    name: Marshall Islands Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_066
+    name: Marshall Islands Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_067
+    name: Marshall Islands Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_068
+    name: Marshall Islands Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_069
+    name: Marshall Islands Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_070
+    name: Marshall Islands Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_071
+    name: Marshall Islands Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_072
+    name: Marshall Islands Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_073
+    name: Marshall Islands Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_074
+    name: Marshall Islands Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_075
+    name: Marshall Islands Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_076
+    name: Marshall Islands Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_077
+    name: Marshall Islands Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_078
+    name: Marshall Islands Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_079
+    name: Marshall Islands Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_080
+    name: Marshall Islands Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_081
+    name: Marshall Islands Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_082
+    name: Marshall Islands Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_083
+    name: Marshall Islands Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_084
+    name: Marshall Islands Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_085
+    name: Marshall Islands Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_086
+    name: Marshall Islands Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_087
+    name: Marshall Islands Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_088
+    name: Marshall Islands Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_089
+    name: Marshall Islands Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_090
+    name: Marshall Islands Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_091
+    name: Marshall Islands Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_092
+    name: Marshall Islands Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_093
+    name: Marshall Islands Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_094
+    name: Marshall Islands Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_095
+    name: Marshall Islands Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_096
+    name: Marshall Islands Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_097
+    name: Marshall Islands Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_098
+    name: Marshall Islands Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_099
+    name: Marshall Islands Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_100
+    name: Marshall Islands Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_101
+    name: Marshall Islands Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_102
+    name: Marshall Islands Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_103
+    name: Marshall Islands Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_104
+    name: Marshall Islands Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_105
+    name: Marshall Islands Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_106
+    name: Marshall Islands Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_107
+    name: Marshall Islands Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_108
+    name: Marshall Islands Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_109
+    name: Marshall Islands Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_110
+    name: Marshall Islands Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_111
+    name: Marshall Islands Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_112
+    name: Marshall Islands Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_113
+    name: Marshall Islands Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_114
+    name: Marshall Islands Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_115
+    name: Marshall Islands Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_116
+    name: Marshall Islands Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_117
+    name: Marshall Islands Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_118
+    name: Marshall Islands Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_119
+    name: Marshall Islands Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_120
+    name: Marshall Islands Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_121
+    name: Marshall Islands Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_122
+    name: Marshall Islands Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_123
+    name: Marshall Islands Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_124
+    name: Marshall Islands Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_125
+    name: Marshall Islands Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_126
+    name: Marshall Islands Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_127
+    name: Marshall Islands Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_128
+    name: Marshall Islands Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_129
+    name: Marshall Islands Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_130
+    name: Marshall Islands Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_131
+    name: Marshall Islands Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_132
+    name: Marshall Islands Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_133
+    name: Marshall Islands Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_134
+    name: Marshall Islands Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_135
+    name: Marshall Islands Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_136
+    name: Marshall Islands Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_137
+    name: Marshall Islands Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_138
+    name: Marshall Islands Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_139
+    name: Marshall Islands Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_140
+    name: Marshall Islands Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_141
+    name: Marshall Islands Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_142
+    name: Marshall Islands Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_143
+    name: Marshall Islands Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_144
+    name: Marshall Islands Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_145
+    name: Marshall Islands Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_146
+    name: Marshall Islands Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_147
+    name: Marshall Islands Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_148
+    name: Marshall Islands Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_149
+    name: Marshall Islands Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_150
+    name: Marshall Islands Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_151
+    name: Marshall Islands Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_152
+    name: Marshall Islands Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_153
+    name: Marshall Islands Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_154
+    name: Marshall Islands Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_155
+    name: Marshall Islands Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_156
+    name: Marshall Islands Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_157
+    name: Marshall Islands Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_158
+    name: Marshall Islands Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_159
+    name: Marshall Islands Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_160
+    name: Marshall Islands Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_161
+    name: Marshall Islands Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_162
+    name: Marshall Islands Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_163
+    name: Marshall Islands Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_164
+    name: Marshall Islands Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_165
+    name: Marshall Islands Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_166
+    name: Marshall Islands Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_167
+    name: Marshall Islands Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_168
+    name: Marshall Islands Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_169
+    name: Marshall Islands Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_170
+    name: Marshall Islands Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_171
+    name: Marshall Islands Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_172
+    name: Marshall Islands Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_173
+    name: Marshall Islands Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_174
+    name: Marshall Islands Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_175
+    name: Marshall Islands Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_176
+    name: Marshall Islands Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_177
+    name: Marshall Islands Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_178
+    name: Marshall Islands Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_179
+    name: Marshall Islands Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_180
+    name: Marshall Islands Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_181
+    name: Marshall Islands Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_182
+    name: Marshall Islands Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_183
+    name: Marshall Islands Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_184
+    name: Marshall Islands Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_185
+    name: Marshall Islands Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_186
+    name: Marshall Islands Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_187
+    name: Marshall Islands Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_188
+    name: Marshall Islands Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_189
+    name: Marshall Islands Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_190
+    name: Marshall Islands Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_191
+    name: Marshall Islands Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_192
+    name: Marshall Islands Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_193
+    name: Marshall Islands Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_194
+    name: Marshall Islands Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_195
+    name: Marshall Islands Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_196
+    name: Marshall Islands Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_197
+    name: Marshall Islands Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_198
+    name: Marshall Islands Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_199
+    name: Marshall Islands Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_200
+    name: Marshall Islands Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_201
+    name: Marshall Islands Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_202
+    name: Marshall Islands Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_203
+    name: Marshall Islands Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_204
+    name: Marshall Islands Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_205
+    name: Marshall Islands Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_206
+    name: Marshall Islands Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_207
+    name: Marshall Islands Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_208
+    name: Marshall Islands Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_209
+    name: Marshall Islands Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_210
+    name: Marshall Islands Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_211
+    name: Marshall Islands Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_212
+    name: Marshall Islands Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_213
+    name: Marshall Islands Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_214
+    name: Marshall Islands Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_215
+    name: Marshall Islands Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_216
+    name: Marshall Islands Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_217
+    name: Marshall Islands Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_218
+    name: Marshall Islands Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_219
+    name: Marshall Islands Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_220
+    name: Marshall Islands Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_221
+    name: Marshall Islands Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_222
+    name: Marshall Islands Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_223
+    name: Marshall Islands Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_224
+    name: Marshall Islands Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_225
+    name: Marshall Islands Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_226
+    name: Marshall Islands Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_227
+    name: Marshall Islands Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_228
+    name: Marshall Islands Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_229
+    name: Marshall Islands Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_230
+    name: Marshall Islands Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_231
+    name: Marshall Islands Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_232
+    name: Marshall Islands Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_233
+    name: Marshall Islands Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_234
+    name: Marshall Islands Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_235
+    name: Marshall Islands Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_236
+    name: Marshall Islands Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_237
+    name: Marshall Islands Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_238
+    name: Marshall Islands Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_239
+    name: Marshall Islands Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_240
+    name: Marshall Islands Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_241
+    name: Marshall Islands Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_242
+    name: Marshall Islands Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_243
+    name: Marshall Islands Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_244
+    name: Marshall Islands Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_245
+    name: Marshall Islands Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_246
+    name: Marshall Islands Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_247
+    name: Marshall Islands Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_248
+    name: Marshall Islands Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_249
+    name: Marshall Islands Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_250
+    name: Marshall Islands Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_251
+    name: Marshall Islands Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mh_252
+    name: Marshall Islands Skill 252
+    status: ACTIVE_SCAFFOLD
