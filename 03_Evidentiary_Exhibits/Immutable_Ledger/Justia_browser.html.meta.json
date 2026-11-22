@@ -1,0 +1,12 @@
+{
+  "url": "https://www.justia.com/",
+  "final_url": "https://www.justia.com/",
+  "status": 200,
+  "title": "Justia :: Free Law & Legal Information for Lawyers, Students, Business and the Public",
+  "bytes": 90051,
+  "sha256": "90edc94eff003230436ee32a59ac3c727ab29dff8491179b0b66f849ddd6ba01",
+  "captured_at": "2026-11-22T20:36:20.537985Z",
+  "custodian": "OpenCode/browser-fallback",
+  "provenance": "browser-rendered-outerHTML",
+  "batch": "pilot-browser-fallback"
+}

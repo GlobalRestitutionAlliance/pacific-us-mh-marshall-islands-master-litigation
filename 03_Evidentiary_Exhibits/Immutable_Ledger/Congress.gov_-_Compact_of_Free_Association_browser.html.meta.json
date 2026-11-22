@@ -1,0 +1,12 @@
+{
+  "url": "https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22Marshall+Islands+Compact%22%7D",
+  "final_url": "https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22Marshall+Islands+Compact%22%7D",
+  "status": 200,
+  "title": "Just a moment...",
+  "bytes": 45219,
+  "sha256": "99244e0b4300a2b93d4397a54c46c7441c192dc8e4ee5efd658f6673ac4ceed9",
+  "captured_at": "2026-11-22T20:38:35.193181Z",
+  "custodian": "OpenCode/browser-fallback",
+  "provenance": "browser-rendered-outerHTML",
+  "batch": "pilot-browser-fallback"
+}

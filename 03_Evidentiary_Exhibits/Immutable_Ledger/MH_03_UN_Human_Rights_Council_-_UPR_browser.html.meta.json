@@ -1,0 +1,12 @@
+{
+  "url": "https://www.ohchr.org/en/hr-bodies/upr/upr-home",
+  "final_url": "https://www.ohchr.org/en/hr-bodies/upr/upr-home",
+  "status": 200,
+  "title": "Universal Periodic Review | OHCHR",
+  "bytes": 85510,
+  "sha256": "d263a17c9870cc6faf28ba11f35c6bf6411b2173bd27a45eef93c68a4847c88b",
+  "captured_at": "2026-11-22T20:30:48.849449Z",
+  "custodian": "OpenCode/browser-fallback",
+  "provenance": "browser-rendered-outerHTML",
+  "batch": "pilot-browser-fallback"
+}
