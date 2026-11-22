@@ -1,0 +1,12 @@
+{
+  "url": "https://www.rmiembassyus.org/",
+  "final_url": "https://www.rmiembassyus.org/",
+  "status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes": 591670,
+  "sha256": "73f3236be33b6c82ff20168316ea980b15c598a0fbedcc3ccbeba9f11322caa5",
+  "captured_at": "2026-11-22T19:58:34.229820Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "pilot-1"
+}

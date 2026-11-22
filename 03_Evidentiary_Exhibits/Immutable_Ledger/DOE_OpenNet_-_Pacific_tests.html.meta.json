@@ -1,0 +1,12 @@
+{
+  "url": "https://www.osti.gov/opennet/",
+  "final_url": "https://www.osti.gov/opennet/",
+  "status": 200,
+  "content_type": "",
+  "bytes": 22655,
+  "sha256": "14e80011d60329958b8f116bf0aa9619db6a3584997ecea47465d8affe1f96be",
+  "captured_at": "2026-11-22T19:58:33.401558Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "pilot-1"
+}

@@ -1,6 +1,5 @@
 # Primary Public Sources
 
-
 - [UN Digital Library - Search](https://digitallibrary.un.org/search)
 - [UN OHCHR - Country Page](https://www.ohchr.org/en/countries)
 - [UN Human Rights Council - UPR](https://www.ohchr.org/en/hr-bodies/upr/upr-home)
@@ -27,3 +26,9 @@
 - [WorldCat](https://search.worldcat.org/)
 - [Wikisource](https://en.wikisource.org/)
 - [US Govt Publishing Office](https://www.govinfo.gov/)
+- [DOE OpenNet - Pacific tests](https://www.osti.gov/opennet/)
+- [US State Dept - Marshall Islands](https://www.state.gov/countries-areas/marshall-islands/)
+- [NARA - Pacific nuclear testing](https://www.archives.gov/research/military/atomic-energy)
+- [Marshall Islands Nuclear Claims Tribunal archive refs (public)](https://www.rmiembassyus.org/)
+- [UN Digital Library - Marshall Islands](https://digitallibrary.un.org/search?ln=en&cc=UN+Documents&p=Marshall+Islands+nuclear)
+- [Congress.gov - Compact of Free Association](https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22Marshall+Islands+Compact%22%7D)

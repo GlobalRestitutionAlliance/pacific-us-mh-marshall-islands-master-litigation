@@ -34,6 +34,22 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
+| 2026-11-22 | UN Human Rights Council - UPR | https://www.ohchr.org/en/hr-bodies/upr/upr-home | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | CIA FOIA Reading Room | https://www.cia.gov/reading-room/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
+| 2026-11-22 | World Bank Country Data | https://data.worldbank.org/country | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Chronicling America (LOC Newspapers) | https://chroniclingamerica.loc.gov/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | HathiTrust Digital Library | https://www.hathitrust.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN Digital Library | https://digitallibrary.un.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | CourtListener | https://www.courtlistener.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Justia | https://www.justia.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | DOE_OpenNet_-_Pacific_tests.html | https://www.osti.gov/opennet/ | OpenCode/harvest | 14e80011d60329958b8f116bf0aa9619db6a3584997ecea47465d8affe1f96be | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=22655 |
+| 2026-11-22 | US State Dept - Marshall Islands | https://www.state.gov/countries-areas/marshall-islands/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | NARA - Pacific nuclear testing | https://www.archives.gov/research/military/atomic-energy | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
+| 2026-11-22 | Marshall_Islands_Nuclear_Claims_Tribunal_archive_refs_public_.html | https://www.rmiembassyus.org/ | OpenCode/harvest | 73f3236be33b6c82ff20168316ea980b15c598a0fbedcc3ccbeba9f11322caa5 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=591670 |
+| 2026-11-22 | UN Digital Library - Marshall Islands | https://digitallibrary.un.org/search?ln=en&cc=UN+Documents&p=Marshall+Islands+nuclear | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Congress.gov - Compact of Free Association | https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22Marshall+Islands+Compact%22%7D | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
