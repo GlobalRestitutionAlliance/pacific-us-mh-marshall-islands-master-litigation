@@ -1,12 +1,13 @@
 {
   "url": "https://data.worldbank.org/country",
   "final_url": "https://data.worldbank.org/country",
-  "status": 200,
   "title": "Countries | Data",
   "bytes": 3431,
   "sha256": "5653785ccc06b09670117bfd8dd8088883c3674d7f56c6a2391f56e333616435",
   "captured_at": "2026-11-22T20:31:22.457146Z",
   "custodian": "OpenCode/browser-fallback",
   "provenance": "browser-rendered-outerHTML",
-  "batch": "pilot-browser-fallback"
+  "batch": "pilot-browser-fallback",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "HTTP status not captured by browser outerHTML fallback; fabricated status removed. Do not treat as authenticated or verified."
 }

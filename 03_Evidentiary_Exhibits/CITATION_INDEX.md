@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
 
 - CIT-0001: https://chroniclingamerica.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Chronicling_America_LOC_Newspapers__browser.html` | `772b01f092832ff7...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22Marshall+Islands+Compact%22%7D | `03_Evidentiary_Exhibits/Immutable_Ledger/Congress.gov_-_Compact_of_Free_Association_browser.html` | `99244e0b4300a2b9...` | PENDING_LEGAL_REVIEW

@@ -1,12 +1,13 @@
 {
   "url": "https://www.cia.gov/reading-room/",
   "final_url": "https://www.cia.gov/reading-room/",
-  "status": 200,
   "title": "MH_08_CIA_FOIA_Reading_Room",
   "bytes": 100097,
   "sha256": "e002e75862daa9506fff85922e1a09f4bb189448f733e5d0ad804399e86d5005",
   "captured_at": "2026-11-22T20:31:22.457146Z",
   "custodian": "OpenCode/browser-fallback",
   "provenance": "browser-rendered-outerHTML",
-  "batch": "pilot-browser-fallback"
+  "batch": "pilot-browser-fallback",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "HTTP status not captured by browser outerHTML fallback; fabricated status removed. Do not treat as authenticated or verified."
 }
