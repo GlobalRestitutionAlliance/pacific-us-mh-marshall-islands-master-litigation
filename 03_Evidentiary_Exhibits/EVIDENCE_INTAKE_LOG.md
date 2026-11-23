@@ -69,9 +69,9 @@
 
 | 2026-11-22 | Nuclear_Claims_Tribunal_archive_ref.html | https://www.nuclearclaimstribunal.com/ | OpenCode/harvest | 6dc9c7fc93bb488bb0520a6c780a8d3c0fb5486a4711aca49b4c53fac7393023 | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=114 final_url=https://www.nuclearclaimstribunal.com/ |
 
-| 2026-11-22 | US_DOE_Marshall_Islands_Program_browser.html | https://www.energy.gov/em/marshall-islands-program | OpenCode/browser-fallback | ba2031b1d9b8a73971eeabaf09a8b7c8f3c427a1396461508e944efc1b89ce77 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60002 final_url=https://www.energy.gov/em/marshall-islands-program |
+| 2026-11-22 | US_DOE_Marshall_Islands_Program_browser.html | https://www.energy.gov/em/marshall-islands-program | OpenCode/browser-fallback | ba2031b1d9b8a73971eeabaf09a8b7c8f3c427a1396461508e944efc1b89ce77 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60002 final_url=https://www.energy.gov/em/marshall-islands-program | | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
 
-| 2026-11-22 | Library_of_Congress_-_Marshall_Islands_nuclear_tests_browser.html | https://www.loc.gov/item/?q=marshall+islands+nuclear+test | OpenCode/browser-fallback | 100bba64f688d027d8ddc1173cde04b6165dff649f1feefe0afbf06b5e7a06ac | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=marshall+islands+nuclear+test |
+| 2026-11-22 | Library_of_Congress_-_Marshall_Islands_nuclear_tests_browser.html | https://www.loc.gov/item/?q=marshall+islands+nuclear+test | OpenCode/browser-fallback | 100bba64f688d027d8ddc1173cde04b6165dff649f1feefe0afbf06b5e7a06ac | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=marshall+islands+nuclear+test | | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
 
 | 2026-11-22 | HathiTrust_Digital_Library_73a05a74_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 73a05a74d44525ffffe44536b599d506d33eaedd322bc48eb1f115e8ae96f66f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60066 final_url=https://babel.hathitrust.org/cgi/mb |
 
