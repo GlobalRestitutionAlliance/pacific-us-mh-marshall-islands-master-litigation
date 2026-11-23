@@ -65,6 +65,18 @@
 | 2026-11-22 | UN_OHCHR_browser.html | https://www.ohchr.org/ | OpenCode/browser-fallback | c55d06b6288b81a4eaed11a59e64143e9ecf9c732ab4c012c4a7e75ac1f77681 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=100114 final_url=https://www.ohchr.org/ |
 | 2026-11-22 | US_State_Dept_-_Marshall_Islands_browser.html | https://www.state.gov/countries-areas/marshall-islands/ | OpenCode/browser-fallback | b12c0358db0f651e7da898c603b8a5e919b767efb70c126f93dd403a19705832 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=90014 final_url=https://www.state.gov/countries-areas/marshall-islands/ |
 
+| 2026-11-22 | US_DOJ_Radiation_Exposure_Compensation_Act.html | https://www.justice.gov/civil/common/reca | OpenCode/harvest | 6a782c848dd5e60b4f0648973b629b7d2cd284252ff28e8a1f7fcf897ce0a00b | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=98724 final_url=https://www.justice.gov/civil/reca |
+
+| 2026-11-22 | Nuclear_Claims_Tribunal_archive_ref.html | https://www.nuclearclaimstribunal.com/ | OpenCode/harvest | 6dc9c7fc93bb488bb0520a6c780a8d3c0fb5486a4711aca49b4c53fac7393023 | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=114 final_url=https://www.nuclearclaimstribunal.com/ |
+
+| 2026-11-22 | US_DOE_Marshall_Islands_Program_browser.html | https://www.energy.gov/em/marshall-islands-program | OpenCode/browser-fallback | ba2031b1d9b8a73971eeabaf09a8b7c8f3c427a1396461508e944efc1b89ce77 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60002 final_url=https://www.energy.gov/em/marshall-islands-program |
+
+| 2026-11-22 | Library_of_Congress_-_Marshall_Islands_nuclear_tests_browser.html | https://www.loc.gov/item/?q=marshall+islands+nuclear+test | OpenCode/browser-fallback | 100bba64f688d027d8ddc1173cde04b6165dff649f1feefe0afbf06b5e7a06ac | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=marshall+islands+nuclear+test |
+
+| 2026-11-22 | HathiTrust_Digital_Library_73a05a74_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 73a05a74d44525ffffe44536b599d506d33eaedd322bc48eb1f115e8ae96f66f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60066 final_url=https://babel.hathitrust.org/cgi/mb |
+
+| 2026-11-22 | World_Bank_Marshall_Islands_browser.html | https://data.worldbank.org/country/marshall-islands | OpenCode/browser-fallback | 6f65ca0432e68fb14dbe90b8fd7bda30a070323e7476432fc0439b390e605cf5 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=3445 final_url=https://data.worldbank.org/country/marshall-islands |
+
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
