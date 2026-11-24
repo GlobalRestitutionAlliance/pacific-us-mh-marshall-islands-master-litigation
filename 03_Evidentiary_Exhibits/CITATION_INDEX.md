@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off. 404/not-found captures are marked NOT_SUBSTANTIVE_404_PENDING_RECAPTURE and are not substantive evidence until recaptured.
 
 - CIT-0001: https://chroniclingamerica.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Chronicling_America_LOC_Newspapers__browser.html` | `772b01f092832ff7...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22Marshall+Islands+Compact%22%7D | `03_Evidentiary_Exhibits/Immutable_Ledger/Congress.gov_-_Compact_of_Free_Association_browser.html` | `99244e0b4300a2b9...` | PENDING_LEGAL_REVIEW
@@ -35,3 +35,9 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIE
 - CIT-0031: https://www.state.gov/countries-areas/marshall-islands/ | `03_Evidentiary_Exhibits/Immutable_Ledger/US_State_Dept_-_Marshall_Islands_browser.html` | `b12c0358db0f651e...` | PENDING_LEGAL_REVIEW
 - CIT-0032: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW
 - CIT-0033: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `74dfeec691d279cc...` | PENDING_LEGAL_REVIEW
+- CIT-0034: https://www.nuclearclaimstribunal.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Nuclear_Claims_Tribunal_archive_ref.html` | `6dc9c7fc93bb488b...` | PENDING_LEGAL_REVIEW
+- CIT-0035: https://www.justice.gov/civil/common/reca | `03_Evidentiary_Exhibits/Immutable_Ledger/US_DOJ_Radiation_Exposure_Compensation_Act.html` | `6a782c848dd5e60b...` | PENDING_LEGAL_REVIEW
+- CIT-0036: https://babel.hathitrust.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/HathiTrust_Digital_Library_73a05a74_browser.html` | `dc98a44dbb3a4331...` | PENDING_LEGAL_REVIEW
+- CIT-0037: https://www.loc.gov/item/?q=marshall+islands+nuclear+test | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_Marshall_Islands_nuclear_tests_browser.html` | `988060d6d7145383...` | PENDING_LEGAL_REVIEW | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
+- CIT-0038: https://www.energy.gov/em/marshall-islands-program | `03_Evidentiary_Exhibits/Immutable_Ledger/US_DOE_Marshall_Islands_Program_browser.html` | `9cb941d0660d94a4...` | PENDING_LEGAL_REVIEW | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
+- CIT-0039: https://data.worldbank.org/country/marshall-islands | `03_Evidentiary_Exhibits/Immutable_Ledger/World_Bank_Marshall_Islands_browser.html` | `efd822364f4e05b3...` | PENDING_LEGAL_REVIEW
