@@ -22,9 +22,5 @@
     "Access-Control-Max-Age": "86400",
     "Access-Control-Allow-Methods": "OPTIONS,GET,POST",
     "Access-Control-Expose-Headers": "x-amzn-waf-action"
-  },
-  "substantive": false,
-  "quality_flag": "EMPTY_CAPTURE_PENDING_RECAPTURE",
-  "annotation_note": "0-byte/empty-capture artifact; retained for provenance only. NOT substantive evidence until recaptured. PENDING_LEGAL_REVIEW.",
-  "legal_review_status": "PENDING_LEGAL_REVIEW"
+  }
 }
